@@ -1,0 +1,2 @@
+# SQL-Database-Queries-For-Pizzeria
+Created entire database from scratch for a local pizzeria. Generated data, created a barker-notation model, created the database using phpmyadmin, then answered important managerial questions through sql queries. Lastly, presented all the information with answers to the queries which will help the business sustain and grow itself. Presentation component was ranked the highest in the class with 97% grade. 

@@ -2,7 +2,7 @@
 Created entire database from scratch for a local pizzeria. Generated data, created a barker-notation model, created the database using phpmyadmin, then answered important managerial questions through SQL queries. Lastly, presented all the information with answers to the queries which will help the business sustain and grow itself. Presentation component was ranked the highest in the class with 97% grade. 
 
 
-Sample SQL Managerial Question:
+*Sample SQL Managerial Question:*
 
 What is the sum total of meaningful orders coming in from each service method and on average how much discount is being offered for each?
 
